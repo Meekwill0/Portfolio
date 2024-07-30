@@ -6,7 +6,7 @@ This is a personal portfolio website created to showcase my skills, projects, an
 
  Features
 
-- Navigation Bar: Allows easy navigation to different sections of the portfolio including About Me, Skills, and Projects.
+- Navigation : Allows easy navigation to different sections of the portfolio including About Me, Skills, and Projects.
 - Profile Picture: Displays a professional profile picture.
 - About Me Section: Provides a brief introduction and personal background.
 - Skills Section: Lists technical skills and proficiencies.
